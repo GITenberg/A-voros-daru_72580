@@ -1,0 +1,26 @@
+_repo: A-voros-daru_72580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferenczi, Sári
+    gutenberg_agent_id: '56735'
+    url: http://www.gutenberg.org/2009/agents/56735
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72580'
+language: hu
+pgterms:marc905: 20231231151348ferenczi
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAthenaeum, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A vörös daru
+url: http://www.gutenberg.org/ebooks/72580
